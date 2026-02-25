@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinospark2",
+    "description": "Arduino Wiring-based Framework (Spark2)",
+    "url": "https://github.com/Matt-Tav/arduino-spark2",
+    "version": "1.0.0"
+}
